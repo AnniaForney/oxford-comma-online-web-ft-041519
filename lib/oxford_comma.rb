@@ -3,12 +3,12 @@ return array.first
 end
 
 def oxford_comma(array)
-  if array.length === 2 
+  if array.size === 2 
   else 
 end 
 
 def oxford_comma(array)
-  if array.length === 3 
+  if array.size === 3 
     
 end 
 
